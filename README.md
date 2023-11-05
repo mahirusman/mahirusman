@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Usman</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **Trackerscore**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Microservices and preparing for CKAD exam**
+- 🌱 I’m currently learning **web3 & Daaps and blockchain stuff**
 
 - 👨‍💻 My recent projects are available at [https://usman-bakhsh.vercel.app](https://usman-bakhsh.vercel.app)
 
-- 📫 How to reach me **ehmusman@gmail.com**
+- 📫 How to reach me **usmancuiisb@gmail.com**
 
-- 📄 Know about my experiences [https://usman-bakhsh.vercel.app/Hafiz%20Muhammad%20Usman.pdf](https://usman-bakhsh.vercel.app/Hafiz%20Muhammad%20Usman.pdf)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mahirusman](https://www.linkedin.com/in/mahirusman/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ehmusman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehmusman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hafiz-muhammad-usman-b7765b172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-muhammad-usman-b7765b172" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hafiz muhammad usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hafiz muhammad usman" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/mahirusman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-muhammad-usman-b7765b172" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/c-usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hafiz muhammad usman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
