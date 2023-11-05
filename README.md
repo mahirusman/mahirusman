@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Usman</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **NFT MarketPlace**
 
-- 🌱 I’m currently learning **web3 & Daaps and blockchain stuff**
+- 🌱 I’m currently learning **web3 , DApp the blockchain stuff**
 
-- 👨‍💻 My recent projects are available at [https://usman-bakhsh.vercel.app](https://usman-bakhsh.vercel.app)
+- 👨‍💻 My recent projects are available at [https://github.com/mahirusman](https://github.com/mahirusman)
 
 - 📫 How to reach me **usmancuiisb@gmail.com**
 
