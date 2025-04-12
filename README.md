@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **Hollyoud.com**
+- 🔭 I’m currently working on **[https://hollyoud.com](https://hollyoud.com)** as a Team lead
 
 - 🌱 I’m currently learning **web3 , DApp the blockchain stuff**
 
