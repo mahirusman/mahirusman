@@ -5,11 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:38d39f&height=200&section=header&text=Muhammad%20Usman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI-Focused%20Senior%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </a>
 
-<!-- AVATAR -->
-<img width="130" style="border-radius:50%; border: 3px solid #58a6ff;" src="https://media.licdn.com/dms/image/v2/D4D35AQENgnBIPJvXPQ/profile-framedphoto-shrink_400_400/B4DZx0.QLeG0Ac-/0/1771489002511?e=1778691600&v=beta&t=xNUtKhyUUHPIqG-3dDc08NvET32OFM17WT0Fz4XoXVc" alt="Muhammad Usman" />
-
-<!-- TYPING ANIMATION -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS;AWS+%7C+Docker+%7C+CI%2FCD+%7C+TypeScript;4%2B+Years+Building+Production+Apps;AI-First+Development+Approach)](https://git.io/typing-svg)
 
 <!-- OPEN TO WORK BADGE -->
