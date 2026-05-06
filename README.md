@@ -1,94 +1,219 @@
-<h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">Senior Full-Stack Web Developer (MERN) | Backend Node.js | Front-End React/Next.js | AWS Cloud</h3>
+<div align="center">
 
-<p align="center">
-  📍 <b>Manama, Kingdom of Bahrain</b> • 
-  📞 <b>+973 39514132</b> •
-  ✉️ <a href="mailto:usmancuiisb@gmail.com"><b>usmancuiisb@gmail.com</b></a> •
-  🔗 <a href="https://www.linkedin.com/in/mahirusman/" target="_blank"><b>LinkedIn</b></a> •
-  💻 <a href="https://github.com/mahirusman" target="_blank"><b>GitHub</b></a>
-</p>
+<!-- ANIMATED HEADER -->
+<a href="https://github.com/mahirusman">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:38d39f&height=200&section=header&text=Muhammad%20Usman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI-Focused%20Senior%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</a>
 
-<p align="center">
-  ✅ <b>Open to Work</b> — Full-Stack (MERN) • Front-End (React/Next.js) • Back-End (Node.js) • AWS Cloud • <b>Available immediately</b>
-</p>
+<!-- AVATAR -->
+<img width="130" style="border-radius:50%; border: 3px solid #58a6ff;" src="https://media.licdn.com/dms/image/v2/D4D35AQENgnBIPJvXPQ/profile-framedphoto-shrink_400_400/B4DZx0.QLeG0Ac-/0/1771489002511?e=1778691600&v=beta&t=xNUtKhyUUHPIqG-3dDc08NvET32OFM17WT0Fz4XoXVc" alt="Muhammad Usman" />
 
----
+<!-- TYPING ANIMATION -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS;AWS+%7C+Docker+%7C+CI%2FCD+%7C+TypeScript;4%2B+Years+Building+Production+Apps;AI-First+Development+Approach)](https://git.io/typing-svg)
 
+<!-- OPEN TO WORK BADGE -->
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--Stack%20%7C%20React%20%7C%20Node.js%20%7C%20NestJS%20%7C%20AWS-2ea043?style=for-the-badge&logoColor=white" alt="Open to Work" />
 
-## 🚀 About Me
+<!-- LOCATION HIGHLIGHTED -->
+<img src="https://img.shields.io/badge/📍%20Based%20in-Manama%2C%20Bahrain-0A66C2?style=for-the-badge" alt="Based in Manama, Bahrain" />
 
-I’m a **Senior Full-Stack Web Developer (MERN)** with **4 years** of experience building and supporting **production web applications** using **JavaScript/TypeScript, React/Next.js, Node.js (Express/NestJS), and MongoDB**.
+<!-- CONTACT BADGES -->
+<a href="mailto:usmancuiisb@gmail.com">
+  <img src="https://img.shields.io/badge/Email-usmancuiisb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mahirusman/">
+  <img src="https://img.shields.io/badge/LinkedIn-mahirusman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 🔭 **Recent Work:** Sr. Full-Stack MERN Developer on **hollyoud.com** — GCC freelance marketplace (**Jobs/Gigs, Profiles, Networking, Real-time Chat, Admin Operations**)  
-- ⚙️ **Backend Focus:** **REST APIs**, scalable service architecture, reusable middleware, and clean API contracts  
-- 🗄️ **Data Layer:** MongoDB **schema design, indexing, and Aggregation Pipelines** for listing/search/reporting  
-- 💬 **Real-time:** **Socket.io** chat + in-app notifications with authenticated event handling  
+<!-- META BADGES -->
+<img src="https://img.shields.io/badge/🛂%20Work%20Permit-Bahraini-2F855A?style=flat-square" />
+<img src="https://img.shields.io/badge/🇵🇰%20Nationality-Pakistani-2F855A?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=mahirusman&style=flat-square&color=0A66C2" />
 
-- ☁️ **Cloud/DevOps:** **AWS (EC2, S3, CloudFront, Route 53, CloudWatch)**, Nginx, PM2, CI/CD, release & production support  
+📞 **(+973) 39514132** &nbsp;
 
-**Tech Stack:** JavaScript • TypeScript • React • Next.js • Redux Toolkit • Axios • Node.js • Express • NestJS • MongoDB • Redis • Socket.io • AWS • Nginx • CI/CD
-
----
-
-## 🧠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge&logo=postman&logoColor=fff)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Mongoose](https://img.shields.io/badge/Mongoose-800?style=for-the-badge&logoColor=fff)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Aggregation](https://img.shields.io/badge/Aggregation_Framework-2F855A?style=for-the-badge&logo=mongodb&logoColor=fff)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=232F3E)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=fff)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=fff)
-![Route_53](https://img.shields.io/badge/Route_53-0A66C2?style=for-the-badge&logo=amazonaws&logoColor=fff)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=232F3E)
-![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=232F3E)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=fff)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
-
-![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)
-![OAuth2](https://img.shields.io/badge/OAuth2-3EAAAF?style=for-the-badge&logo=auth0&logoColor=fff)
-![OIDC](https://img.shields.io/badge/OIDC-EB5424?style=for-the-badge&logo=openid&logoColor=fff)
-
-![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=fff)
-![Monorepo](https://img.shields.io/badge/Monorepo-111?style=for-the-badge&logo=git&logoColor=fff)
-
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=fff)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=fff)
+</div>
 
 ---
 
-## 🤝 Connect with me
+## 👨‍💻 About Me
+
+AI-focused Senior Full-Stack Web Developer with **4+ years** of experience building and owning production web applications end-to-end, with strong expertise in React, Next.js, Node.js, NestJS, AWS, and CI/CD. Experienced in designing and delivering scalable systems, including architecture, APIs, real-time features, and cloud deployments.
+
+Most recently at [Hollyoud Technologies](https://www.linkedin.com/company/hollyoud-technologies) in Bahrain, I served as **Lead Full Stack Developer** taking full technical ownership of the GCC-focused marketplace platform [Hollyoud.com](https://www.hollyoud.com/) as a solo engineer, leading it from boilerplate to live MVP through architecture decisions, implementation standards, and deployment workflows.
+
+---
+
+## 🧠 Core Expertise
+
+| Area                    | Skills                                                                                                                                  |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**           | JavaScript ES6+, TypeScript                                                                                                             |
+| **Frontend**            | React.js, Next.js, Redux Toolkit/Thunk, React Query, Tailwind CSS, HTML5, responsive UI, adaptive design, component-driven architecture |
+| **Backend**             | Node.js, Express.js, NestJS, Socket.io, GraphQL, RESTful APIs                                                                           |
+| **Database**            | MongoDB, PostgreSQL, Redis                                                                                                              |
+| **DevOps & Cloud**      | AWS EC2, S3, CloudFront, Route 53, ECS, Amplify, CDN, CloudWatch, Docker, Nginx, Linux/Ubuntu, CI/CD, GitHub Actions                    |
+| **Security & Auth**     | OAuth2, OIDC, JWT, RBAC, API rate limiting, CORS, Helmet.js, HTTPS/TLS                                                                  |
+| **Architecture**        | Modular frontend architecture, scalable UI systems, API-driven applications, monorepo workflows                                         |
+| **Codebase Management** | Monorepo and micro-repo, Nx workspace, Husky, Prettier, lint-staged, ESLint                                                             |
+| **Integrations**        | Stripe, Twilio                                                                                                                          |
+| **Collaboration**       | Monday.com, Microsoft Teams, Jira, Trello, Discord, Notion                                                                              |
+| **AI Tools**            | Codex, Claude, Warp.dev, MCP server, prompt engineering                                                                                 |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahirusman/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,graphql,mongodb,postgres,redis,aws,docker,nginx,linux,githubactions,git,figma" alt="Technology icons" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-3EAAAF?style=flat-square&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/OIDC-EB5424?style=flat-square&logo=openid&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href
+---
+
+## 💼 Work Experience
+
+### 🚀 Lead Full Stack Web Developer — [Hollyoud Technologies](https://www.linkedin.com/company/hollyoud-technologies)
+
+<img src="https://img.shields.io/badge/📅%20Nov%202024%20–%20Mar%202026-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Al%20Janaybiah%2C%20Bahrain-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Platform-Hollyoud.com-38d39f?style=flat-square" />
+
+> Led the full-cycle 360° engineering delivery of **[Hollyoud.com](https://www.hollyoud.com/)**, a GCC-based niche freelance marketplace for the film and creative industry — from boilerplate to a launch-ready MVP as a **solo engineer**. Owned frontend, backend, admin panel, AWS infrastructure, and release workflows end-to-end.
+
+<details>
+<summary><b>🎬 Professionals Marketplace</b></summary>
+<br/>
+
+- Built a profile-driven discovery system with category-based filtering for actors, film crew, audio, creative content, and related roles.
+- Engineered a **Profile Strength Scoring** system with percentage-based completion tracking and actionable recommendations.
+- Developed **real-time 1:1 chat** and connect features using Socket.io and Node.js for direct communication between job owners and candidates.
+- Integrated email, SMS, and in-app notification workflows using Twilio and event-driven triggers for job status, bid activity, KYC, subscriptions, messages, and connection requests.
+- Architected full **English/Arabic i18n** localization with server-side language detection, dynamic RTL/LTR switching, and locale-aware routing using next-i18next.
+
+</details>
+
+<details>
+<summary><b>💼 Jobs Marketplace</b></summary>
+<br/>
+
+- Built a profile-aware **job recommendation engine** using server-side filtering and scoring algorithms based on profile completeness, skills, and category tags.
+- Delivered a full-cycle hiring workflow: job posts → applications → shortlisting → bid tracking → hire/reject actions.
+- Built a **My Bids** dashboard for application status tracking, bid amounts, deadlines, and shortlisted bid visibility.
+- Implemented portfolio attachments, cover letters, and bid amounts directly inside the application flow.
+- Built **My Lists / Shortlisting** so hiring managers could manage named candidate lists across multiple job posts.
+- Implemented subscription lifecycle automation with cron jobs and grace-period expiry handling.
+
+</details>
+
+<details>
+<summary><b>⚙️ Admin & Operations Panel</b></summary>
+<br/>
+
+- Built a comprehensive **Admin Control Panel** with RBAC, multi-admin agent creation, and granular roles and permissions.
+- Engineered Users List, Jobs Monitor, Bids, Network Monitor, and Chat Monitor for platform-wide real-time visibility.
+- Developed Business Ops for subscriptions, plan management, and cron job lifecycle logs.
+- Built Jobs Stats and Search Analytics for job posting performance and user search behavior.
+- Integrated **Google Analytics** into the admin dashboard for visitors, page views, guest vs registered breakdown, and active user tracking.
+- Developed CMS modules for categories, professions, skills and talents, countries, languages, and cities.
+
+</details>
+
+---
+
+### 🚀 Senior Full Stack MERN Developer — [Renesis Tech](https://www.linkedin.com/company/renesis-tech)
+
+<img src="https://img.shields.io/badge/📅%20Jan%202023%20–%20Aug%202024-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Lahore%2C%20Pakistan-0A66C2?style=flat-square" />
+
+> Engineered full-stack solutions across multiple production projects using Next.js, Node.js, NestJS, and TypeScript — delivering scalable features, optimizing existing modules, and ensuring production stability.
+
+<details>
+<summary><b>🖥️ Frontend Engineering</b></summary>
+<br/>
+
+- Designed a unified adaptive component system using **Tailwind CSS** and Radix UI to reduce styling inconsistencies.
+- Architected global state management using **Redux Toolkit** and redux-persist for session persistence and cleaner UI/business logic separation.
+- Optimized server state with **React Query** and centralized API handling with Axios interceptors.
+- Implemented Next.js App Router, SSR, SSG, dynamic imports, code splitting, image optimization, and middleware for route protection and locale detection.
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend Engineering</b></summary>
+<br/>
+
+- Architected production-grade REST APIs using **NestJS** with dependency injection, modular architecture, DTO validation, exception filters, interceptors, and custom decorators.
+- Secured authentication and authorization with JWT, protected routes, RBAC, NestJS Guards, and custom decorators.
+- Applied **BFF patterns** for paginated, filtered, lean API responses.
+- Optimized MongoDB access with aggregation pipelines, indexing, and sharding; managed PostgreSQL workflows for relational data integrity.
+
+</details>
+
+<details>
+<summary><b>🏗️ Project Foundations</b></summary>
+<br/>
+
+- [**React TypeScript Boilerplate**](https://github.com/mahirusman/react-ts-boilerplate) — production-ready React + TypeScript boilerplate with clean architecture, ESLint, Prettier, Husky, lint-staged, and Sanity.io.
+- [**gRPC Node.js Microservices**](https://github.com/mahirusman/grpc-nodejs) — reusable microservices foundation using gRPC, proto definitions, generated clients, and modular service structure.
+- [**Mahjong Hand Betting Game**](https://github.com/mahirusman/hand-betting-game) — AI-focused Nx monorepo with NestJS API, Next.js frontend, shared TypeScript game engine, MongoDB, Swagger, Docker, and GitHub workflows.
+- **Bond Yield Calculator** — production-grade Nx full-stack monorepo with React + Vite, Node.js/Express API, shared libraries, Storybook, Docker, Nginx, GitHub Actions, and Vitest.
+
+</details>
+
+---
+
+### 🚀 Backend Node.js Engineer — [Brackets](https://www.linkedin.com/company/bracketsltd)
+
+<img src="https://img.shields.io/badge/📅%20Aug%202021%20–%20Dec%202022-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Gujranwala%2C%20Pakistan-0A66C2?style=flat-square" />
+
+> Worked on **Monitairhealth**, a digital health platform for sleep medicine delivering remote patient monitoring, treatment adherence tracking, and real-time clinical insights through IoT-integrated data and automated alerts.
+
+<details>
+<summary><b>View responsibilities</b></summary>
+<br/>
+
+- Built **real-time clinical dashboards** consuming IoT device data, live patient readings, adherence status, and early intervention alerts.
+- Developed reporting and analytics views with MongoDB aggregation pipelines for clinical decision-making.
+- Designed end-to-end **IoT data pipelines** for ingestion, validation, normalization, processing, and persistence.
+- Engineered PostgreSQL analytics using composite indexes, partial indexes, and EXPLAIN ANALYZE-driven query tuning.
+- Architected **AWS production infrastructure** using EC2, CloudFront, ALB, TLS termination, edge protection, and load-balanced routing.
+- Hardened EC2 exposure with least-privilege security groups and managed Route 53 DNS for stable releases.
+- Built secure media delivery using S3 and CloudFront with per-user storage, access policies, compression, and bucket hardening.
+- Established backend event/error logging and **AWS CloudWatch** dashboards and alerts.
+- Integrated Twilio for multi-country SMS communication with Sender IDs and messaging services.
+- Built a reusable Bash-based EC2 deployment automation script for Node.js deployments.
+
+</details>
+
+---
+
+## 📦 Featured GitHub Repositories
+
+| Repository                                                                                             | Focus                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**hand-betting-game**](https://github.com/mahirusman/hand-betting-game)                               | AI-focused Mahjong hand betting game — Nx monorepo, NestJS API, Next.js web app, shared TypeScript game engine, MongoDB, Swagger, Docker, GitHub workflows |
+| [**react-ts-boilerplate**](https://github.com/mahirusman/react-ts-boilerplate)                         | React + TypeScript project foundation with code quality and content tooling                                                                                |
+| [**node-socket-groupchat-typescript**](https://github.com/mahirusman/node-socket-groupchat-typescript) | Node.js, Express, MongoDB, JWT, and Socket.io real-time chat API                                                                                           |
+| [**grpc-nodejs**](https://github.com/mahirusman/grpc-nodejs)                                           | Node.js and TypeScript gRPC microservices foundation                                                                                                       |
+| [**githubactions**](https://github.com/mahirusman/githubactions)                                       | CI/CD workflow experiments and GitHub Actions practice                                                                                                     |
+
+---
+
+## 🎓 Education
+
+### 🎓 Bachelor of Science in Computer Science — [Virtual University of Pakistan](https://www.vu.edu.pk/)
+
+<img src="https://img.shields.io/badge/📅%20Jun%202022%20–%20Aug%202024-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Lahore%2C%20Pakistan-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Grade-B-2F855A?style=flat-square" />
+
+**Field of study:** Software and applications development and analysis, database and network design and administration
+
+</div>
