@@ -34,7 +34,7 @@
 
 ## 👨‍💻 About Me
 
-AI-focused Senior Full-Stack Web Developer with **4+ years** of experience building and owning production web applications end-to-end, with strong expertise in React, Next.js, Node.js, NestJS, AWS, and CI/CD. Experienced in designing and delivering scalable systems, including architecture, APIs, real-time features, and cloud deployments.
+AI-focused Senior Full-Stack Web Developer with **4.5+ years** of experience building and owning production web applications end-to-end, with strong expertise in React, Next.js, Node.js, NestJS, AWS, and CI/CD. Experienced in designing and delivering scalable systems, including architecture, APIs, real-time features, and cloud deployments.
 
 Most recently at [Hollyoud Technologies](https://www.linkedin.com/company/hollyoud-technologies) in Bahrain, I served as **Lead Full Stack Developer** taking full technical ownership of the GCC-focused marketplace platform [Hollyoud.com](https://www.hollyoud.com/) as a solo engineer, leading it from boilerplate to live MVP through architecture decisions, implementation standards, and deployment workflows.
 
