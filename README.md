@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/🇵🇰%20Nationality-Pakistani-2F855A?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=mahirusman&style=flat-square&color=0A66C2" />
 
-📞 **(+973) 39514132** &nbsp;
+📞 **(+92) 3481585974** &nbsp;
 
 </div>
 
